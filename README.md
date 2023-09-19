@@ -15,8 +15,20 @@
   - JavaScript
   - HTML/CSS
   - C++
+    
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" alt="cakephp" height="40" style="vertical-align:top; margin:4px">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
+
+
+
+
+
+
 
 📫 Reach me: yassermanouzi@outlook.com
 🔗 LinkedIn: [https://www.linkedin.com/in/yasser-manouzi/]
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasserManouzi&theme=tokyonight)
 
 Let's code the future together! 🚀
