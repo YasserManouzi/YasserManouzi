@@ -1,16 +1,22 @@
-### Hi there 👋
+👨‍💻 Aspiring Developer | 📚 Student | 🌐 Multilingual Coder
 
-<!--
-**YasserManouzi/YasserManouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Yasser Manouzi, a passionate student and aspiring developer with a knack for crafting software solutions in various programming languages. Here's a glimpse into my world of code:
 
-Here are some ideas to get you started:
+💼 Currently pursuing my degree in Computer Science.
+🌟 Created diverse projects in languages like C#, Python, PHP, Java, and more.
+🚀 Constantly seeking to learn and grow in the ever-evolving tech landscape.
+🔗 Connect with me to collaborate on exciting projects or discuss the latest tech trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Proficient in:
+  - C#
+  - Python
+  - PHP
+  - Java
+  - JavaScript
+  - HTML/CSS
+  - C++
+
+📫 Reach me: yassermanouzi@outlook.com
+🔗 LinkedIn: [https://www.linkedin.com/in/yasser-manouzi/]
+
+Let's code the future together! 🚀
